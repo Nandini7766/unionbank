@@ -1,5 +1,1 @@
-Hello this file contains the  somei db related code..
-
-...
-hello added this line now.. 3rd july
-
+Hello this file contains the  some db related code..
